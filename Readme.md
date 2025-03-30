@@ -79,11 +79,11 @@ http://localhost:3000
 ---
 
 ## 🙌 Contributing
-Feel free to fork this repository and submit pull requests with improvements!
+**Feel free to fork this repository and submit pull requests with improvements!**
 ---
 
 ## 📜 License
-This project is **open-source** and available under the **MIT License**.
+**This project is open-source and available under the MIT License**.
 ---
 
 ## 📜 Author
