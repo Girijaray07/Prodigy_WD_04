@@ -1,4 +1,4 @@
-# 🎮 Tic-Tac-Toe Game (Real-Time Multiplayer)
+# 🎮 Tic-Tac-Toe Game
 
 A **real-time multiplayer Tic-Tac-Toe game** built using **Node.js, Express.js, Socket.io, and EJS**. This project enables players to compete live with seamless WebSocket communication for instant move updates.
 
@@ -42,7 +42,7 @@ A **real-time multiplayer Tic-Tac-Toe game** built using **Node.js, Express.js, 
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Girijaray07/Prodigy_WD_04.git
-cd tic-tac-toe
+cd Prodigy_WD_04
 ```
 
 ### 2️⃣ Install Dependencies
